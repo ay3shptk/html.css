@@ -1,0 +1,34 @@
+{
+    "flavors" : [
+        {
+            "name" : "Pink",
+            "primary" : "#0d1137",
+            "secondary" : "black",
+            "tertiary" : "#ff6da0"
+        },
+        {
+            "name" : "Black",
+            "primary" : "white",
+            "secondary" : "#dbdbdb",
+            "tertiary" : "black"
+        },
+        {
+            "name" : "Darkgreen",
+            "primary" : "#F4C095",
+            "secondary" : "#EE2E31",
+            "tertiary" : "#679289"
+        },
+        {
+            "name" : "Purple",
+            "primary" : "white",
+            "secondary" : "black",
+            "tertiary" : "#bbb2e9"
+        },
+        {
+            "name" : "White",
+            "primary" : "white",
+            "secondary" : "#dbdbdb",
+            "tertiary" : "black"
+        }
+    ]
+}

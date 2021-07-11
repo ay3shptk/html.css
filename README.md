@@ -1,15 +1,20 @@
-# White:
+# pink:
 
-```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/white.min.css" rel="stylesheet" >```
+```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavors/pink.min.css" rel="stylesheet" >```
 
-# Black:
+# black:
 
-```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/black.min.css" rel="stylesheet" >```
+```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavors/black.min.css" rel="stylesheet" >```
 
-# Pink:
+# darkgreen:
 
-```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/pink.min.css" rel="stylesheet" >```
+```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavors/darkgreen.min.css" rel="stylesheet" >```
 
-# Dark Green:
+# purple:
 
-```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/darkgreen.min.css" rel="stylesheet" >```
+```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavors/purple.min.css" rel="stylesheet" >```
+
+# white:
+
+```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavors/white.min.css" rel="stylesheet" >```
+
