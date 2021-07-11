@@ -29,6 +29,12 @@
             "primary" : "white",
             "secondary" : "#dbdbdb",
             "tertiary" : "black"
+        },
+        {
+            "name" : "Red",
+            "primary" : "white",
+            "secondary" : "white",
+            "tertiary" : "red"
         }
     ]
 }

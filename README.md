@@ -25,3 +25,7 @@ HTML.css
 
 ```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavors/white.min.css" rel="stylesheet" >```
 
+### Red:
+
+```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavors/red.min.css" rel="stylesheet" >```
+
