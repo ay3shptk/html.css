@@ -1,0 +1,1 @@
+```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/white.min.css" rel="stylesheet" >```
