@@ -1,9 +1,9 @@
 HTML.css
 ## Make plain HTML pages beautiful with just one line of code 
 
- ### How to use:
+### How to use:
 
- Just add the one line of code corressponding to the flavor of choice in the ```<head>``` tag of your page. It's that simple 😌
+Just add the one line of code corressponding to the flavor of choice in the ```<head>``` tag of your page. It's that simple 😌
 
 ### Pink:
 
