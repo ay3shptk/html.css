@@ -1,0 +1,274 @@
+:root {
+    --b: #679289;
+    --f: #F4C095;
+    --s: #EE2E31;
+}
+
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: var(--b);
+    color: var(--f);
+    -webkit-overflow-scrolling: touch;
+}
+
+code,
+kbd,
+var,
+samp {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    background-color: var(--s);
+    display: inline;
+    overflow-x: visible;
+    box-sizing: border-box;
+    min-width: 100%;
+}
+
+body {
+    margin: 1.2em;
+}
+
+nav {
+    margin: 1em;
+}
+
+
+
+pre>code {
+    display: block
+}
+
+
+header,
+main,
+footer,
+article {
+    position: relative;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+
+
+
+input,
+textarea,
+select,
+button {
+    width: 100%;
+    outline: none;
+    height: 2em;
+    margin: 0 auto;
+    font-family: inherit;
+    font-size: 1em;
+    border: 1px solid var(--s);
+    border-radius: 2px;
+    color: var(--f);
+    display: block;
+    height: auto;
+    padding: 10px 28px;
+    line-height: 1;
+    margin-bottom: 0.25em;
+}
+
+input[type=file] {
+    background-color: var(--s);
+}
+
+textarea {
+    height: 6em;
+    resize: vertical;
+}
+
+fieldset,
+textarea {
+    padding: 0.25em
+}
+
+input:hover,
+textarea:hover {
+    border: 1px solid;
+}
+
+input:focus,
+input:active,
+textarea:focus,
+textarea:active {
+    border: 2px solid var(--f);
+}
+
+textarea:focus {
+    border: 1px solid var(--f);
+}
+
+
+
+::placeholder {
+    color: var(--s);
+    ;
+    opacity: 1;
+}
+
+hr {
+    margin: 1.5em;
+    border: 1px solid var(--s);
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 1.9em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+h4 {
+    font-size: 1.25em;
+}
+
+h5 {
+    font-size: 1em;
+}
+
+h6 {
+    margin-top: 1em;
+    font-size: 1em;
+    color: var(--s);
+}
+
+a,
+a:visited {
+    color: var(--f);
+    text-decoration: underline;
+    text-decoration-color: var(--s);
+    text-decoration-style: solid;
+    text-decoration-thickness: 1px;
+}
+
+
+a:hover,
+a:active {
+    color: var(--s);
+    outline-width: 0;
+}
+
+
+
+p {
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    hyphens: manual;
+    display: block;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+
+    line-height: 1.2;
+}
+
+
+header,
+footer {
+    margin-bottom: 3em;
+}
+
+footer {
+    margin-top: 5em;
+
+}
+
+img,
+picture,
+audio,
+video,
+figure {
+    margin: 0.3em;
+    height: auto;
+    width: auto;
+    max-width: 100%;
+}
+
+
+
+button,
+input[type=submit],
+input[type=reset] {
+    width: auto;
+    background-color: var(--b);
+    display: inline;
+}
+
+button:hover {
+    background-color: rgb(219, 219, 219);
+}
+
+aside {
+    margin: 0.5em 0;
+    color: var(--s);
+}
+
+body {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+button[disabled] {
+    color: var(--s);
+    cursor: not-allowed;
+}
+
+nav>ul,
+nav>ol {
+    list-style: none;
+}
+
+li {
+    margin-right: 1em;
+}
+
+label {
+    display: block;
+}
+
+pre {
+    overflow-x: visible;
+}
+
+form {
+    margin: auto;
+}
+
+
+legend {
+    background-color: var(--f);
+    color: var(--b);
+    padding: 3px 6px;
+}
+
+
+
+table {
+    min-width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    font-size: 0.9em;
+}
+
+
+
+td,
+th {
+    padding: 0.35em 0.75em;
+    vertical-align: top;
+    border: 1px solid var(--s);
+}
