@@ -1,7 +1,7 @@
 :root {
+    --b:  #bbb2e9;
     --f: black;
-    --b: white;
-    --s: #dbdbdb
+    --s: rgb(206, 206, 206);
 }
 
 html {

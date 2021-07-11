@@ -1,5 +1,5 @@
 :root {
-    --b:  #e52165;
+    --b:  #ff6da0;
     --f: #0d1137;
     --s: black;
 }
@@ -214,7 +214,7 @@ button:hover {
 
 aside {
     margin: 0.5em 0;
-    color: var(--s);
+    color: var(--f);
 }
 
 body {
