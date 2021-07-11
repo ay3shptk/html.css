@@ -1,0 +1,11 @@
+name: Trigger Personal Site Deploy
+on: [push]
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "😎 SMORT! Deploying a mirror of the project site to your personal site at https://ayush.sh/page/${{ env.slug }}💪"
+      - run: curl -X POST ${{ env.deployment_webhook }}
+    env: 
+      deployment_webhook: ${{ secrets.deploy }}
+      slug: html.css
