@@ -195,7 +195,10 @@ figure {
     margin: 0.3em;
     max-width: 100%;
 }
-
+img, picture{
+    width: auto;
+    height: auto;
+}
 
 
 button,
