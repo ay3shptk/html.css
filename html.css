@@ -193,8 +193,6 @@ audio,
 video,
 figure {
     margin: 0.3em;
-    height: auto;
-    width: auto;
     max-width: 100%;
 }
 

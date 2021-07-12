@@ -18,7 +18,7 @@ readme = "HTML.css\n## Make plain HTML pages beautiful with just one line of cod
 
 for flavor in flavors["flavors"]:
     render = template_data.replace("/* PRIMARY */", flavor["primary"]).replace("/* SECONDARY */", flavor["secondary"]).replace("/* TERTIARY */", flavor["tertiary"])
-    write("flavors/" + flavor["name"].lower() + ".min.css", render)
-    readme += "### " + flavor["name"] + ":\n\n" + '```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavors/'+ flavor["name"].lower() + '.min.css" rel="stylesheet" >```\n\n'
+    write("flavor/" + flavor["name"].lower() + ".min.css", render)
+    readme += "### " + flavor["name"] + ":\n\n" + '```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavor/'+ flavor["name"].lower() + '.min.css" rel="stylesheet" >```\n\n'
 
 write("README.md", readme)
