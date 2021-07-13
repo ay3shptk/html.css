@@ -34,9 +34,10 @@ Just add invert-color, example invert-purple
 # Examples
 
 ### Dark Green
+Example of The Color Dark Green
 <img src="profile.jpg">
 
-
+```Have an example? Please Share it, we'll share yours here```
 
 
 
