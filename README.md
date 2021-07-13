@@ -7,7 +7,6 @@ Make plain HTML pages beautiful with just one line of code
 
 This requires no npm packages, just a simple cdn, with customizon options. It should take you 1 minute to get started with it.
 
-
 ### CDN
 Just add the CDN to your head, and replace 'replacewithcolor' with a color you like, or want to try
 
