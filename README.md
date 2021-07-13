@@ -1,41 +1,35 @@
-HTML.css
-## Make plain HTML pages beautiful with just one line of code 
+# HTML.css 
+Make plain HTML pages beautiful with just one line of code 
 
- ### How to use:
+<br>
 
- Just add the one line of code corressponding to the flavor of choice in the ```<head>``` tag of your page. It's that simple 😌
+# Getting Started
 
-### Pink:
+This requires no npm packages, just a simple cdn, with customizon options. It should take you 1 minute to get started with it.
 
-```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavor/pink.min.css" rel="stylesheet" >```
+<br>
 
-### Black:
+### CDN
+```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavor/replacewithcolor.min.css" rel="stylesheet" >```
 
-```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavor/black.min.css" rel="stylesheet" >```
+Here are the Colors, that work so far.
 
-### Darkgreen:
+<br>
 
-```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavor/darkgreen.min.css" rel="stylesheet" >```
+| Colors        |
+| ------------- |
+| col 3 is      | 
+| col 2 is      |    
+| zebra stripes |      
 
-### Purple:
 
-```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavor/purple.min.css" rel="stylesheet" >```
 
-### White:
 
-```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavor/white.min.css" rel="stylesheet" >```
 
-### Red:
+# Authors
 
-```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavor/red.min.css" rel="stylesheet" >```
-
-### Bonus:
- You can easily switch the foreground and background colors with each other by adding invert/ just before the name of the css file.
-
-<b>For Example:</b>
-
-```https://cdn.statically.io/gh/ayshptk/html.css/main/flavor/purple.min.css```
-
-will become
-
-```https://cdn.statically.io/gh/ayshptk/html.css/main/flavor/invert/purple.min.css```
+ <a href="https//twitter.com/ayshptk"> Ayush </a> Who made this code </a>
+ <a href="https//twitter.com/heyarav/"> Arav </a> For Writing the Docs </a>
+ <br>
+ 
+ Check out <a href="https://writingprompts.ml"> Writing Prompts </a>, something I made with a Friend!
