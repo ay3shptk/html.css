@@ -10,6 +10,8 @@ This requires no npm packages, just a simple cdn, with customizon options. It sh
 <br>
 
 ### CDN
+Just add the CDN to your head, and replace 'replacewithcolor' with a color you like, or want to try
+
 ```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavor/replacewithcolor.min.css" rel="stylesheet" >```
 
 Here are the Colors, that work so far.
@@ -29,6 +31,10 @@ You can easily switch the foreground and background colors with each other by ad
 Just add invert-color, example invert-purple
 
 
+# Examples
+
+### Dark Green
+<img src="profile.jpg">
 
 
 
