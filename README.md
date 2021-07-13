@@ -29,7 +29,7 @@ You can easily switch the foreground and background colors with each other by ad
 Just add invert-color, example invert-purple
 
 
-# Examples
+## Examples
 
 ### Dark Green
 Example of The Color Dark Green
