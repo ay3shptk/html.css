@@ -14,7 +14,7 @@ def write(name, content):
     temporary.write(content)
     temporary.close()
 
-readme = "HTML.css\n## Make plain HTML pages beautiful with just one line of code \n\n ### How to use:\n\n Just add the one line of code corressponding to the flavor of choice in the ```<head>``` tag of your page. It's that simple 😌\n\n"
+readme = "HTML.css\n## Make plain HTML pages beautiful with just one line of code \n\n### How to use:\n\n Just add the one line of code corressponding to the flavor of choice in the ```<head>``` tag of your page. It's that simple 😌\n\n"
 
 for flavor in flavors["flavors"]:
     render = template_data.replace("/* PRIMARY */", flavor["primary"]).replace("/* SECONDARY */", flavor["secondary"]).replace("/* TERTIARY */", flavor["tertiary"])
