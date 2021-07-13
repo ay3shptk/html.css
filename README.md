@@ -18,9 +18,16 @@ Here are the Colors, that work so far.
 
 | Colors        |
 | ------------- |
-| col 3 is      | 
-| col 2 is      |    
-| zebra stripes |      
+| dark green   | 
+| pink   |    
+| white|   
+| Red |
+| Black |
+| Purple |
+
+You can easily switch the foreground and background colors with each other by adding invert/ just before the name of the css file, if you wish.
+Just add invert-color, example invert-purple
+
 
 
 
