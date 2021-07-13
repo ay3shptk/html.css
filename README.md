@@ -16,7 +16,7 @@ Here are the Colors, that work so far.
 
 <br>
 
-| Colors        |
+| Colors        | | CDN |
 | ------------- |
 | dark green   | 
 | pink   |    
