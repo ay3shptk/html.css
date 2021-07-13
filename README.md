@@ -3,7 +3,7 @@ Make plain HTML pages beautiful with just one line of code
 
 <br>
 
-# Getting Started
+## Getting Started
 
 This requires no npm packages, just a simple cdn, with customizon options. It should take you 1 minute to get started with it.
 
