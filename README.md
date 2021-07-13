@@ -36,6 +36,7 @@ Just add invert-color, example invert-purple
 # Authors
 
  <a href="https//twitter.com/ayshptk"> Ayush </a> Who made this code </a>
+ <br>
  <a href="https//twitter.com/heyarav/"> Arav </a> For Writing the Docs </a>
  <br>
  
