@@ -35,6 +35,12 @@
             "primary" : "white",
             "secondary" : "white",
             "tertiary" : "red"
+        },
+        {
+            "name" : "FloralWhite",
+            "primary" : "#f8f8ff",
+            "tertiary" : "#50514F",
+            "secondary" : "#50514F"
         }
     ]
 }

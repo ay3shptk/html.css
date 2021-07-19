@@ -29,6 +29,10 @@ HTML.css
 
 ```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavor/red.min.css" rel="stylesheet" >```
 
+### FloralWhite:
+
+```<link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavor/floralwhite.min.css" rel="stylesheet" >```
+
 ### Bonus:
  You can easily switch the foreground and background colors with each other by adding `invert/` just before the name of the css file.
 
